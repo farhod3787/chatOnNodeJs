@@ -1,0 +1,25 @@
+{
+  "name": "chat_nodejs",
+  "version": "1.0.0",
+  "description": "NodeJs chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "socket.io",
+    "express"
+  ],
+  "author": "Farhod",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.0",
+    "nodemon": "^1.19.1",
+    "nunjucks": "^3.2.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "socket.io": "^2.2.0"
+  }
+}
